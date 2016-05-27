@@ -5,9 +5,10 @@
 # but you can also edit it by hand.
 
 autopublish
-insecure
 twbs:bootstrap
 barbatus:stars-rating
+accounts-ui
+accounts-password
 meteor-base
 mobile-experience
 mongo
@@ -23,5 +24,4 @@ spacebars
 check
 standard-minifier-css
 standard-minifier-js
-accounts-ui
-accounts-password
+iron:router
